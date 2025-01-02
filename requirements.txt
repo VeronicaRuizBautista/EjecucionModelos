@@ -2,5 +2,6 @@ transformers
 streamlit
 torch  # PyTorch se instala como 'torch'
 diffusers 
-
+torchvision 
+Pillow
 
