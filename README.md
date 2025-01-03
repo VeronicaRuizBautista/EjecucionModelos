@@ -18,9 +18,9 @@
 ### Instalación
 
 ```bash
-git clone https://github.com/usuario/huggingface-projects.git
+git clone https://github.com/VeronicaRuizBautista/EjecucionModelos.git
 
-cd huggingface-projects
+cd EjecucionModelos
 
 python -m venv env
 
