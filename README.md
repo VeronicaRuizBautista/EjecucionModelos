@@ -57,9 +57,10 @@ streamlit run proyecto2/multi_model.py
 **Objetivo:** Ejecutar un modelo localmente, como identificación de objetos en imágenes.
 #### Ejecutar
 ```bash
-python proyecto3/object_detection.py
+cd Proyecto3
+python object_detection.py
 ```
-
+![alt text](image-2.png)
 
 ## Sección Especial: Transformers y Modelos Locales
 
